@@ -58,4 +58,5 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         <a href="view_users.php">العودة إلى قائمة المستخدمين</a>
     </div>
 </body>
+
 </html>
